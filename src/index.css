@@ -1,0 +1,25 @@
+
+@layer one{
+  @tailwind base;
+@tailwind components;
+@tailwind utilities;
+}
+
+
+
+#root{
+  padding-right: 0rem;
+}
+
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color:#2C3E50;
+  }
+
+  .line1{
+    height: 4px;
+    width: 80px;
+    background-color:#ffffff;
+  }
