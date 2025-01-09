@@ -13,22 +13,18 @@ export default function About() {
             <div className="line1">
             </div>
           </div>
-
         </div>
-
-
-
-
         <div className="container">
           <div className="px-6 grid md:grid-cols-2  mb-3">
 
-            <div className="par1 ps-[48px] pe-[12px] text-white ">
-              <p>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
-              </p>
+            <div className="par1 md:ps-32 md:pe-[12px] text-white  mb-4 md:mb-0">
+              <p>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files
+                including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
             </div>
-            <div className="par2 pe-[48px] ps-[12px] text-white">
+            <div className="par2 md:pe-32 md:ps-[12px] text-white">
               <p>
-                Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+                Freelancer is a free bootstrap theme created by Route. The download includes the complete source files
+                including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
             </div>
 
           </div>
@@ -39,6 +35,8 @@ export default function About() {
 
   )
 }
+
+
 
 
 
