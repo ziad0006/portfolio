@@ -12,7 +12,7 @@ export default function Framework() {
           </div>
 
           <div className="contentframework">
-            <h2 className='font-bold text-4xl md:text-5xl text-white'>STARTFRAMEWORK</h2>
+            <h2 className='font-bold text-4xl md:text-5xl text-white'>START FRAMEWORK</h2>
             <div className=" flex  justify-center items-center my-4 text-white">
               <div className="line1 "></div>
               <i className='fa-solid fa-star mx-3'></i>
@@ -27,3 +27,4 @@ export default function Framework() {
     </>
   )
 }
+
