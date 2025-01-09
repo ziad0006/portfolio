@@ -3,16 +3,15 @@ import React from 'react'
 export default function Footer() {
   return (
     <>
-      <div className="footer  text-white ">
+      <div className="footer  text-white  ">
         <div className="content grid md:grid-cols-3 bg-[#2C3E50] p-[40px] ">
-
 
           <div className="location p-[16px]">
             <h3 className='text-[27px]'>LOCATION</h3>
             <p className='my-2'>2215 John Daniel Drive</p>
             <p>Clark, MO 65243</p>
           </div>
-          <div className="around p-[16px]">
+          <div className="around p-[16px] my-11 md:my-0">
             <h3 className='text-[27px]'>AROUN DTHE WEB</h3>
             <div className="icon mt-2">
               <ul className='flex gap-3 justify-center'>
@@ -29,7 +28,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="end bg-[#151E26] p-4">
+        <div className="end bg-[#151E26] px-4 py-7">
           <p>Copyright © Your Website 2021</p>
         </div>
       </div>
