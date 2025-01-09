@@ -1,16 +1,6 @@
-
-@layer one{
-  @tailwind base;
+ @tailwind base;
 @tailwind components;
 @tailwind utilities;
-}
-
-
-
-#root{
-  padding-right: 0rem;
-}
-
 
 .line{
     height: 4px;
